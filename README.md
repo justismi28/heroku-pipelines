@@ -1,5 +1,7 @@
 # node-js-getting-started
 
+This app was built following the Salesforce Heroku Trailhead. I'm currently using it to test pipelines and review apps.
+
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
 This application supports the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
